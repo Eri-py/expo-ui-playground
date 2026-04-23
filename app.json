@@ -9,8 +9,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.expo-ui-playground",
-      "appleTeamId": "T2A8YY9YDW",
-      "icon": "./assets/icon.icon",
+      "icon": "./assets/icon.icon/Assets/icon-1756312748268.png",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
